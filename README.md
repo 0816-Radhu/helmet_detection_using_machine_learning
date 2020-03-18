@@ -4,7 +4,7 @@ Motorcycle accidents have been rapidly growing through the years in many countri
 > Its a simple YOLO model to detect and count the number of people wearing helmet in a image. this model can be used to detect the intrusion or to find the people ridding bike without helmet.
 
 Getting Started
-> ```python main.py --input <your_video_path>```
+> ```python main.py --input <your_video_path>```<br>
 
 ### My Training Loss
 
