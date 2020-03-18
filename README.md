@@ -1,2 +1,2 @@
-# helmet_detection_using_machine_learning
- Automatic Helmet Detection for Bike Riders using Surveillance Videos in real-time
+# Detection of helmets on motorcyclists
+Motorcycle accidents have been rapidly growing through the years in many countries. In India more than 37 million people use two wheelers. Therefore, it is necessary to develop a system for automatic detection of helmet wearing for road safety. Therefore, a custom object detection model is created using a Machine learning based algorithm which can detect Motorcycle riders. On the detection of a Helmet rider.
