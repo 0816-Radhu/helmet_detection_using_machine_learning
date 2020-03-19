@@ -9,7 +9,7 @@ Download my weight https://drive.google.com/file/d/1r7AF0OrftGQhNpQmbRy--lWu5VgD
 > ```python main.py --input <your_video_path>```<br>
 
 ## Dependencies
-The code is compatible with Python 2.7 and 3. The following dependencies are needed to run the tracker:
+The code is compatible with Python 2.7 and 3. The following dependencies are needed to run the code:
 
 ```
 NumPy
