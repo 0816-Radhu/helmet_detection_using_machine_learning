@@ -20,7 +20,7 @@ from keras.utils import multi_gpu_model
 
 class YOLO(object):
     _defaults = {
-        "model_path": ("model_data/helmet_model_data/ep027-loss6.688-val_loss6.744.h5"),
+        "model_path": ("model_data/ep027-loss6.688-val_loss6.744.h5"),
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": 'model_data/my_classes.txt',
         "score" : 0.85,
