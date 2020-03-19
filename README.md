@@ -11,7 +11,8 @@ Download my weight https://drive.google.com/file/d/1r7AF0OrftGQhNpQmbRy--lWu5VgD
 ## Dependencies
 The code is compatible with Python 2.7 and 3. The following dependencies are needed to run the tracker:
 
-```NumPy
+```
+NumPy
 sklean
 OpenCV
 Pillow
@@ -28,5 +29,6 @@ Additionally, feature generation requires TensorFlow-1.14.0.
 <img src="https://github.com/R-code611/helmet_detection_using_machine_learning/blob/master/doc/val_loss.svg"  width="600" height="500" align="center"/>
 
 ## Result
+
 <img src="https://github.com/0816-Radhu/helmet_detection_using_machine_learning/blob/master/doc/out.jpg"  align="center"/>
 
